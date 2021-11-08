@@ -2,8 +2,8 @@ Day la code cua du an - Nhom 7
 ## Start
 
 dong1
-dong2
-dong3
+dong2.1		//Tanh sua
+dong3.1		//Tanh sua
 dong4
 dong5
 dong6
