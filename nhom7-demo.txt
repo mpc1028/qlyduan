@@ -8,3 +8,4 @@ dong4.1		//Minh sua
 dong5.1		//Minh sua
 
 dong6
+dong7 T.anh them
